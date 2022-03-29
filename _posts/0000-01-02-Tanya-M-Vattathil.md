@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You have bewitched me- body and soul", said Darcy.
 Use the left arrow to go back!
